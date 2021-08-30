@@ -1,0 +1,34 @@
+﻿<Window x:Class="TrafficDataTesting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrafficDataTesting"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            
+        <TextBlock x:Name="TextBlock_0" Text ="" TextWrapping="Wrap" Height="300"/>
+                
+        <Button x:Name ="startButton_0" Margin ="0,50,0,0" Background="Lime" Height="20" Content="Старт" Click="startButton_0_Click" />
+        <Button x:Name="stopButton_0" Background="Red" Height="20" Content="Стоп" Click="stopButton_0_Click" />
+            
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBlock x:Name="TextBlock_1" Text="" TextWrapping="Wrap" Height="300"/>
+            <Button x:Name ="startButton_1" Margin ="0,50,0,0" Background="Lime" Height="20" Content="Старт" Click="startButton_1_Click" />
+            <Button x:Name ="stopButton_1" Background="Red" Height="20" Content="Стоп" Click="stopButton_1_Click" />
+        </StackPanel>
+        <StackPanel Grid.Column="2">
+            <TextBlock x:Name="TextBlock_2" Text="" TextWrapping="Wrap" Height="300"/>
+            <Button x:Name ="startButton_2" Margin ="0,50,0,0" Background="Lime" Height="20" Content="Старт" Click="startButton_2_Click" />
+            <Button x:Name ="stopButton_2" Background="Red" Height="20" Content="Стоп" Click="stopButton_2_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

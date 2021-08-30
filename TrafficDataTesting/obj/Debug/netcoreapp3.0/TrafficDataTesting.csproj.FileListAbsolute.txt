@@ -1,0 +1,17 @@
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\bin\Debug\netcoreapp3.0\TrafficDataTesting.exe
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\bin\Debug\netcoreapp3.0\TrafficDataTesting.deps.json
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\bin\Debug\netcoreapp3.0\TrafficDataTesting.runtimeconfig.json
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\bin\Debug\netcoreapp3.0\TrafficDataTesting.runtimeconfig.dev.json
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\bin\Debug\netcoreapp3.0\TrafficDataTesting.dll
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\bin\Debug\netcoreapp3.0\TrafficDataTesting.pdb
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting_MarkupCompile.cache
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting_MarkupCompile.lref
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting.g.resources
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting.AssemblyInfo.cs
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting.dll
+C:\Users\User\Documents\C#. Projects\TrafficData\TrafficDataTesting\TrafficDataTesting\obj\Debug\netcoreapp3.0\TrafficDataTesting.pdb
